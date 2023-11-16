@@ -1,5 +1,8 @@
 ## RadianceInsight-StartupAnalytics
 
+![python](http://ForTheBadge.com/images/badges/made-with-python.svg)
+![jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+
 Welcome to the RadianceInsight-StartupAnalytics repository! This project, spearheaded by Radiance Group Consulting, is an advanced statistical analysis platform focused on dissecting the intricate details of startup foundations. Our goal is to provide insightful, data-driven analyses of startup foundations, funding dates, financial resources, geographic distributions, and categorical segmentation.
 
 ### Project Description
