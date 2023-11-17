@@ -4,7 +4,7 @@
 ![jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/pablo-git8/RadianceInsight-StartupAnalytics/main/images/radiance.png" alt="200" width="400"/>
+	<img src="https://raw.githubusercontent.com/pablo-git8/RadianceInsight-StartupAnalytics/main/images/radiance.png" alt="100" width="300"/>
 </p>
 
 Welcome to the RadianceInsight-StartupAnalytics repository! This project, spearheaded by Radiance Group Consulting, is an advanced statistical analysis platform focused on dissecting the intricate details of startup foundations. Our goal is to provide insightful, data-driven analyses of startup foundations, funding dates, financial resources, geographic distributions, and categorical segmentation. 
