@@ -46,6 +46,8 @@ This project utilizes a range of technologies and libraries for data ingestion, 
 - Matplotlib and Seaborn for data visualization.
 - Jupyter Notebooks for interactive development and analysis.
 
+import `helper_functions`, `helper_variables`
+
 ### Getting Started
 
 To get started with this project:
